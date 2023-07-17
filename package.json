@@ -1,0 +1,7 @@
+{
+  "scripts": { "test": "jasmine" },
+  "dependencies": {
+    "jasmine": "^5.0.2",
+    "restify-errors": "^8.0.2"
+  }
+}
